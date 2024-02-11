@@ -8,17 +8,17 @@ Link to download dataset:--
 Big Mart Sales Prediction
 This repository contains Python code for predicting sales of items in Big Mart outlets using the XGBoost Regressor. The code includes data analysis, preprocessing, and machine learning model training.
 
-Table of Contents
-Importing Dependencies
-Data Collection & Analysis
-Handling Missing Values
-Data Analysis
-Data Pre-Processing
-Label Encoding
-Splitting Features and Target
-Splitting the Data
-Machine Learning Model Training
-XGBoost Regressor
+Table of Contents:--
+Importing Dependencies,
+Data Collection & Analysis,
+Handling Missing Values,
+Data Analysis,
+Data Pre-Processing,
+Label Encoding,
+Splitting Features and Target,
+Splitting the Data,
+Machine Learning Model Training,
+XGBoost Regressor,
 Performance Evaluation
 
 
